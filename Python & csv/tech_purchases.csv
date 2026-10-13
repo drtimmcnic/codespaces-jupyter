@@ -1,0 +1,18 @@
+userId,ItemId,Name,Category,Salesperson
+1001,5001,Samsung A21,Hardware,Sally
+1001,5002,Scase,Accessories,Sally
+1001,5004,Insurance,Extra,Sally
+1002,5003,Apple 12,Hardware,Peter
+1002,5006,Lighting Cord,Accessories,Peter
+1002,5005,iCase,Accessories,Peter
+1003,5001,Samsung A21,Hardware,Jane
+1003,5002,Scase,Accessories,Jane
+1004,5001,Samsung A21,Hardware,Mia
+1004,5004,Insurance,Extra,Mia
+1005,5005,iCase,Accessories,Peter
+1005,5006,Lighting Cord,Accessories,Peter
+1005,5004,Insurance,Extra,Peter
+1006,5002,Scase,Accessories,Mia
+1006,5004,Insurance,Extra,Mia
+1007,5003,Apple 12,Hardware,Sally
+1007,5006,Lighting Cord,Accessories,Sally
