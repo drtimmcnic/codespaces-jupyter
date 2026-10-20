@@ -1,0 +1,38 @@
+product_id,product_name,category,brand,price
+P001,Pasta,Pantry,Harvest,1.8
+P002,Pasta Sauce,Pantry,FreshCo,2.5
+P003,Rice,Pantry,Harvest,2.2
+P004,Olive Oil,Pantry,FreshCo,6.5
+P005,Cereal,Pantry,FreshCo,3.4
+P006,Flour,Pantry,FreshCo,1.6
+P007,Chips,Snacks,GoldLeaf,2.0
+P008,Chocolate Bar,Snacks,Harvest,1.5
+P009,Popcorn,Snacks,GoldLeaf,2.3
+P010,Crackers,Snacks,FreshCo,2.1
+P011,Nuts,Snacks,FreshCo,4.2
+P012,Cookies,Snacks,NatureBest,2.8
+P013,Soda,Drinks,NatureBest,1.9
+P014,Orange Juice,Drinks,Harvest,3.1
+P015,Sparkling Water,Drinks,FreshCo,1.2
+P016,Beer,Drinks,NatureBest,7.5
+P017,Tea,Drinks,Harvest,3.3
+P018,Coffee,Drinks,GoldLeaf,5.8
+P019,Bread,Bakery,FreshCo,2.1
+P020,Butter,Bakery,NatureBest,2.9
+P021,Bagels,Bakery,GoldLeaf,3.0
+P022,Croissants,Bakery,FreshCo,3.6
+P023,Jam,Bakery,ValueMart,2.7
+P024,Muffins,Bakery,GoldLeaf,3.2
+P025,Milk,Dairy,FreshCo,1.4
+P026,Cheese,Dairy,ValueMart,4.5
+P027,Yogurt,Dairy,GoldLeaf,1.1
+P028,Eggs,Dairy,NatureBest,3.0
+P029,Cream,Dairy,FreshCo,1.9
+P030,Ice Cream,Dairy,GoldLeaf,4.8
+P031,Bananas,Produce,NatureBest,1.3
+P032,Apples,Produce,NatureBest,2.4
+P033,Tomatoes,Produce,NatureBest,2.6
+P034,Lettuce,Produce,FreshCo,1.7
+P035,Onions,Produce,NatureBest,1.5
+P036,Potatoes,Produce,NatureBest,2.0
+P037,Carrots,Produce,ValueMart,1.4
